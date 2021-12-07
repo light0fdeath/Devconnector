@@ -1,3 +1,4 @@
 {
-    "mongoURI" : "mongodb+srv://bigyan:bigyan123@devconnector.be8ki.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://Bigyan:bigyan123@cluster0.9zizz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
